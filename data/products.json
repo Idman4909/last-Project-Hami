@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Fresh Apples",
+      "category": "fruits",
+      "price": 2.99,
+      "image": "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "description": "Crisp and juicy red apples"
+    },
+    {
+      "id": 2,
+      "name": "Organic Bananas",
+      "category": "fruits", 
+      "price": 1.49,
+      "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "description": "Fresh organic bananas"
+    },
+    {
+      "id": 3,
+      "name": "Juicy Oranges",
+      "category": "fruits",
+      "price": 3.29,
+      "image": "https://images.unsplash.com/photo-1547514701-42782101795e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "description": "Sweet and juicy oranges"
+    },
+    {
+      "id": 4,
+      "name": "Sweet Strawberries",
+      "category": "fruits",
+      "price": 4.99,
+      "image": "https://images.unsplash.com/photo-1464454709131-ffd692591ee5?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "description": "Fresh red strawberries"
+    },
+    {
+      "id": 5,
+      "name": "Fresh Carrots",
+      "category": "vegetables",
+      "price": 1.99,
+      "image": "https://images.unsplash.com/photo-1598170845058-32b9d6a5da37?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "description": "Crunchy fresh carrots"
+    },
+    {
+      "id": 6,
+      "name": "Fresh Broccoli",
+      "category": "vegetables",
+      "price": 2.49,
+      "image": "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "description": "Green fresh broccoli"
+    },
+    {
+      "id": 7,
+      "name": "Fresh Tomatoes",
+      "category": "vegetables",
+      "price": 2.79,
+      "image": "https://images.unsplash.com/photo-1592924357228-91a4daadcfea?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "description": "Ripe red tomatoes"
+    },
+    {
+      "id": 8,
+      "name": "Fresh Bell Peppers",
+      "category": "vegetables",
+      "price": 1.89,
+      "image": "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "description": "Colorful bell peppers"
+    }
+  ]
+}
